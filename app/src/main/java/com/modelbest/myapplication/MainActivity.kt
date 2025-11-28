@@ -32,9 +32,10 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun mytest1() {
-        print("mytest1")
-        print("mytest11")
-        print("mytest111")
+        // main 分支上的修改
+        print("main branch - mytest1")
+        print("main branch - 新增功能")
+        print("main branch - 重要更新")
     }
 
     fun funxxx() {
