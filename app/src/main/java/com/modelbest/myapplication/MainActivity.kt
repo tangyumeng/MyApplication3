@@ -18,22 +18,34 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-    fun fun1() {
+    fun funx() {
         print("1")
         print("11")
         print("hello,world")
     }
 
-    fun fun2() {
+    fun funxx() {
         print("2")
         print("22")
         print("222")
 
     }
 
-    fun fun3() {
+    fun mytest1() {
+        print("mytest1")
+        print("mytest11")
+        print("mytest111")
+    }
+
+    fun funxxx() {
         print("3")
         print("33")
         print("3333")
+    }
+
+    fun mytest2() {
+        print("mytest2")
+        print("mytest22")
+        print("mytest223")
     }
 }
