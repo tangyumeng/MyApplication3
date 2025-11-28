@@ -32,9 +32,10 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun mytest1() {
-        print("mytest1")
-        print("mytest11")
-        print("mytest111")
+        print("feature branch - mytest1")
+        print("feature branch - mytest11")
+        print("feature branch - mytest111")
+        print("feature branch - 添加的新行")
     }
 
     fun funxxx() {
