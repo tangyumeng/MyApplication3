@@ -48,4 +48,10 @@ class MainActivity : AppCompatActivity() {
         print("mytest22")
         print("mytest223")
     }
+    
+    // 添加此函数来演示 Android Studio Git 功能
+    fun gitDemoFunction() {
+        print("这是一个用于演示 Git 功能的函数")
+        print("Android Studio Git 工具很强大")
+    }
 }
